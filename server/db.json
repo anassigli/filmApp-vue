@@ -1,0 +1,74 @@
+{
+  "movies": [
+    {
+      "id": 6,
+      "title": "Fight Club",
+      "release_year": 1999,
+      "language": "English",
+      "posterPictureUrl": "",
+      "director": {
+        "name": "David",
+        "lastname": "Fincher",
+        "nationality": "American",
+        "birthdate": "August 28, 1962"
+      },
+      "genre": "Drama"
+    },
+    {
+      "id": 7,
+      "title": "Interstellar",
+      "release_year": 2014,
+      "language": "English",
+      "posterPictureUrl": "",
+      "director": {
+        "name": "Christopher",
+        "lastname": "Nolan",
+        "nationality": "British",
+        "birthdate": "July 30, 1970"
+      },
+      "genre": "Science Fiction"
+    },
+    {
+      "id": 8,
+      "title": "The Godfather",
+      "release_year": 1972,
+      "language": "English",
+      "posterPictureUrl": "",
+      "director": {
+        "name": "Francis Ford",
+        "lastname": "Coppola",
+        "nationality": "American",
+        "birthdate": "April 7, 1939"
+      },
+      "genre": "Crime"
+    },
+    {
+      "id": 9,
+      "title": "Forrest Gump",
+      "release_year": 1994,
+      "language": "English",
+      "posterPictureUrl": "",
+      "director": {
+        "name": "Robert",
+        "lastname": "Zemeckis",
+        "nationality": "American",
+        "birthdate": "May 14, 1951"
+      },
+      "genre": "Drama"
+    },
+    {
+      "id": 10,
+      "title": "The Lion King",
+      "release_year": 1994,
+      "language": "English",
+      "posterPictureUrl": "",
+      "director": {
+        "name": "Roger",
+        "lastname": "Allers, Rob Minkoff",
+        "nationality": "American",
+        "birthdate": "September 29, 1949"
+      },
+      "genre": "Animation"
+    }
+  ]
+}
